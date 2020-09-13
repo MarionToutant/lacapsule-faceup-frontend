@@ -3,8 +3,8 @@ dotenv.config();
 
 export default {
     expo: {
-      name: "faceup",
-      slug: "faceup",
+      name: "Faceup",
+      slug: "Faceup",
       platforms: [
         "ios",
         "android",
